@@ -100,14 +100,14 @@ app.service('studentService', ['$q', function ($q) {
             "name": "Anna Budim",
             "websiteUrl": "https://annabudim.github.io/kitchen/",
             "codeSourceUrl": "https://github.com/AnnaBudim/kitchen.git",
-            "cvUrl": "",
+            "cvUrl": "linkedin.com/in/anna-budim-b46054149",
             "photo": "images/students/budim.jpg"
         },
         {
             "name": "Bohdan Melenchuk",
             "websiteUrl": "https://bsod-404.github.io/project-latealpha/",
             "codeSourceUrl": "https://github.com/BSOD-404/project-latealpha",
-            "cvUrl": "",
+            "cvUrl": "https://www.linkedin.com/in/bohdan-melenchuk-657046149/",
             "photo": "images/students/melenchuk.jpg"
         },
         {
@@ -122,7 +122,7 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl": "https://skipokylas.github.io/layout-html-css/",
             "codeSourceUrl": "https://github.com/skipokylas/layout-html-css",
             "cvUrl": "",
-            "photo": "images/students/odrekhivs'kyi.jpg"
+            "photo": "images/students/odrehivskiy.jpg"
         },
         {
             "name": "Myroslav Martsin",
@@ -217,8 +217,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Serhii Zhyhadlo",
-            "websiteUrl": "https://completedsaite-zhyhadlo.c9users.io/index.html",
-            "codeSourceUrl": "",
+            "websiteUrl": "https://zhyhadlo.github.io/Finish-saite/",
+            "codeSourceUrl": "https://github.com/zhyhadlo/Finish-saite",
             "cvUrl": "",
             "photo": "images/students/zhyhadlo.jpg"
         },
@@ -252,7 +252,7 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Olha Melnyk",
-            "websiteUrl": "https://my-page-olha96.c9users.io/index.html#home",
+            "websiteUrl": "https://melnyko.github.io/My-page/",
             "codeSourceUrl": "https://github.com/melnyko/My-page",
             "cvUrl": "",
             "photo": "images/students/melnyk.jpg"
